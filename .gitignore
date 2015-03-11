@@ -7,3 +7,6 @@ config.codekit
 # Ignore Sublime Text files
 foundascores.sublime-project
 foundascores.sublime-workspace
+
+# Ignore sass-cache
+.sass-cache
